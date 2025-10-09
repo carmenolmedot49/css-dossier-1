@@ -1,7 +1,7 @@
 
 Este repositorio contiene ejercicios prácticos desarrollados en clase, centrados en la aplicación de CSS3 y HTML5 para crear componentes web funcionales y visualmente atractivos. Es un recurso ideal para revisar técnicas de maquetación y diseño de interfaz.
 
-Proyectos Incluidos
+Proyectos Incluidos:
 
 * BasicParallaxScrollEffect
 
