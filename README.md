@@ -1,23 +1,24 @@
+Repositorio de Ejercicios CSS3 y HTML5:
 
-Este repositorio contiene ejercicios prácticos desarrollados en clase, centrados en la aplicación de CSS3 y HTML5 para crear componentes web funcionales y visualmente atractivos. Es un recurso ideal para revisar técnicas de maquetación y diseño de interfaz.
-
-Proyectos Incluidos:
-
-* BasicParallaxScrollEffect
-
-    Tema: Implementación de un efecto de Parallax Básico al hacer scroll.
-
-    Técnicas Clave: Uso de CSS para simular la ilusión de profundidad, control de las capas de fondo y scroll con position: fixed y transform.
-
-    Propósito: Demostrar cómo añadir un efecto visual dinámico y moderno para mejorar la experiencia de usuario.
-
-    NOTA: Imágenes tomadas de Unplash (sin derechos de autor).
+Contiene prácticas desarrolladas en clase, centradas en crear componentes web funcionales y visualmente atractivos. Ideal para repasar maquetación y diseño de interfaces.
 
 
-* LoginPage
+Proyectos incluidos:
 
-    Tema: Creación de una página de inicio de sesión (Login Page) completa.
+    * BasicParallaxScrollEffect
 
-    Técnicas Clave: Maquetación de formularios (<form>), uso de inputs, manejo de botones (<button>), y aplicación de estilos CSS para el diseño y la validación visual básica.
+        Tema: Efecto Parallax al hacer scroll.
 
-    Propósito: Practicar la estructura semántica de HTML5 y el diseño de interfaces de usuario funcionales y estéticas.
+        Técnicas: Uso de CSS para simular profundidad al desplazarse por la página.
+
+        Propósito: Añadir dinamismo visual y mejorar la experiencia de usuario.
+
+        Nota: Imágenes de Unsplash (libres de derechos).
+
+    * LoginPage
+
+        Tema: Página de inicio de sesión completa.
+
+        Técnicas: Formularios, inputs, botones y estilos CSS para diseño.
+
+        Propósito: Practicar estructura semántica HTML5 y diseño de interfaces funcionales y estéticas.
