@@ -22,3 +22,5 @@ Proyectos incluidos:
         Técnicas: Formularios, inputs, botones y estilos CSS para diseño.
 
         Propósito: Practicar estructura semántica HTML5 y diseño de interfaces funcionales y estéticas.
+        
+        Nota: Adjunto una imagen del resultado (archivo Resultado.JPG), aunque no se puede apreciar el dinamismo de la página que proporcionan los efectos, como los hover.
