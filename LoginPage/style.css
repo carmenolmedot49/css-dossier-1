@@ -1,0 +1,198 @@
+/* Código fuente*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap');
+
+
+
+/* Diseño base */
+
+* {
+    font-family: 'Roboto Slab', serif;
+    padding: 0; /* Para que no tengan margen*/
+    margin: 0; /* Para que no tengan espaciado*/
+    box-sizing: border-box; /* Que los elementos cojan de referencia el borde de la caja*/
+}
+
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    min-height: 100vh; /* Buscamos que con vh se tome como tamaño total de la pantalla lo que se está mostrando en este momento y no el 100% */
+    background-color: #FFF5E1;
+    background: radial-gradient(at 20% 30%, #ff00cc, transparent 40%),
+              radial-gradient(at 80% 20%, #00b3ff, transparent 40%),
+              radial-gradient(at 50% 80%, #ffcc00, transparent 40%),
+              radial-gradient(at 80% 70%, #ff6a00, transparent 40%),
+              #fff5e1;
+}
+
+
+
+/* Diseño de la caja */
+
+.caja {
+    text-align: center; 
+    background: transparent; /*Transparente como el fondo*/
+    backdrop-filter: blur(10px); /*Transparencia en el fondo*/
+    filter: blur(0.2px); /* Efecto cristal, efecto muy ligero*/
+    color: beige;
+    border: 2px solid #ffffff;
+    border-radius: 25px;
+    padding: 30px;
+    width: 500px;
+}
+
+.caja h1 {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+.caja:hover {
+    transform: translateY(-5px); /* Ligero levantamiento al pasar el mouse */
+    box-shadow: 0 12px 25px rgba(0,0,0,0.35);
+}
+
+
+
+/* Usuario y contraseña*/
+
+.input {
+    position: relative; /* Necesario para posicionar el icono dentro */
+}
+
+.input input {
+    background: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.input input:hover {
+    border-color: #1E90FF; 
+    box-shadow: 0 0 8px #1E90FF;
+    transition: 0.3s ease;
+}
+
+.input i {
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+}
+
+    /* Iconos más visibles con efecto al hover del input */
+.input input:hover + i {
+    color: #1E90FF; 
+    box-shadow: 0 0 8px #1E90FF;
+    transition: 0.5s ease;
+}
+
+
+.input input:focus {
+    outline: none; /* Quita el borde negro al hacer clic */
+    border-color: #1E90FF;
+    box-shadow: 0 0 8px #1E90FF; 
+    transition: 0.5s ease;
+}
+
+
+
+/* Botón */
+
+button {
+    text-align: center;
+    background: transparent;
+    width: 100%;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 12px;
+    color: beige;
+    font-size: 15px;
+
+}
+
+button:hover {
+    background-color: #1E90FF; 
+    color: #E07A5F; 
+    border-color: #1E90FF;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+
+
+/* Recordar contraseña o registrar usuario */
+
+.recordar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+    color: #fff;
+    margin: 10px 0 20px 0;
+    gap: 5px;
+}
+
+
+.recordar label {
+    display: flex;
+    align-items: center; /* Centra verticalmente el checkbox y el texto */
+    gap: 8px; /* Espacio entre el checkbox y "Recordarme" */
+}
+
+
+.recordar a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+}
+
+
+
+.registro {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.registro a {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+.recordar a:hover,
+.registro a:hover {
+    color: #1E90FF;
+    transition: 0.5s ease;
+}
+
+
+
+/* Transición suave para todos los enlaces y botones */
+
+button, .recordar a, .registro a {
+    transition: all 0.5s ease;
+}
+
+
+
+/* Enlace de registro */
+
+a {
+    color: #fff; 
+    text-decoration: none; /* Para quitarle el color que el navegador pone por defecto*/
+    font-weight: 600;
+    transition: color 0.5s ease; 
+}
+
+a:hover {
+    color: #1E90FF;
+}

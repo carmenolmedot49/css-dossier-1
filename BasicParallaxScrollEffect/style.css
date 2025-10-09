@@ -1,0 +1,97 @@
+/* Código fuente*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap');
+
+
+/* Secciones de fondo */
+
+section {
+    height: 100vh; 
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+
+/* Bienvenida a la web */
+
+h1 {
+    position: fixed;
+    top: 63%;
+    right: 60px;
+    font-family: 'Lora', serif;
+    font-size: 2cm;
+    font-weight: bold;
+    color: #ffffffee;
+    opacity: 50%;
+}
+
+
+/* Descripción debajo de la bienvenida */
+
+#p1 {
+    position: fixed;
+    top: 79%; 
+    right: 60px;
+    font-family: 'Lora', serif;
+    font-size: 0.5cm; 
+    font-weight: normal; 
+    font-style: italic;
+    color: #ffffffee;
+    opacity: 50%;
+    text-align: right; 
+    margin: 0; 
+}
+
+
+#p2 {
+    position: fixed;
+    top: 82%; 
+    right: 60px;
+    font-family: 'Lora', serif;
+    font-size: 0.5cm; 
+    font-weight: normal; 
+    font-style: italic;
+    color: #ffffffee;
+    opacity: 50%;
+    text-align: right; 
+    margin: 0; 
+}
+
+
+#p3 {
+    position: fixed;
+    top: 85%; 
+    right: 60px;
+    font-family: 'Lora', serif;
+    font-size: 0.5cm; 
+    font-weight: normal; 
+    font-style: italic;
+    color: #ffffffee;
+    opacity: 50%;
+    text-align: right; 
+    margin: 0; 
+}
+
+
+/* Imágenes de fondo */
+
+.image1 {
+    background-image: url("doncoombez-Rr9LRoPUhUk-unsplash.jpg")
+    
+}
+
+.image2 {
+    background-image: url("kristaps-ungurs-XD5oKCerKCQ-unsplash.jpg");
+}
+
+.image3 {
+    
+    background-image: url("james-lee-5riMHEuLEOw-unsplash.jpg");
+}
+
+.image4 {
+   background-image: url("elijah-pilchard-D0y0Xr0VF0k-unsplash.jpg");
+}
