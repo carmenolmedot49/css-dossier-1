@@ -15,6 +15,7 @@ section {
 }
 
 
+
 /* Bienvenida a la web */
 
 h1 {
@@ -92,5 +93,79 @@ h1 {
 
 .image4 {
    background-image: url("elijah-pilchard-D0y0Xr0VF0k-unsplash.jpg");
+}
+
+
+
+/* Responsive Design: ajuste para pantallas más pequeñas de mayor a menor*/
+
+@media (max-height: 800px) {
+    h1 {
+        top: 45%;
+        font-size: 1.5cm;
+    }
+
+    #p1 {
+        top: 65%;
+        font-size: 0.45cm;
+    }
+
+    #p2 {
+        top: 68%;
+        font-size: 0.45cm;
+    }
+
+    #p3 {
+        top: 71%;
+        font-size: 0.45cm;
+    }
+}
+
+
+
+@media (max-height: 600px) {
+    h1 {
+        top: 40%;
+        font-size: 1.2cm;
+    }
+
+    #p1 {
+        top: 58%;
+        font-size: 0.4cm;
+    }
+
+    #p2 {
+        top: 61%;
+        font-size: 0.4cm;
+    }
+
+    #p3 {
+        top: 64%;
+        font-size: 0.4cm;
+    }
+}
+
+
+
+@media (max-height: 450px), (max-width: 450px) {
+    h1 {
+        top: 30%;
+        font-size: 0.8cm;
+    }
+
+    #p1 {
+        top: 45%;
+        font-size: 0.3cm;
+    }
+
+    #p2 {
+        top: 48%;
+        font-size: 0.3cm;
+    }
+
+    #p3 {
+        top: 51%;
+        font-size: 0.3cm;
+    }
 }
 
