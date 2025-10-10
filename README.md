@@ -9,11 +9,12 @@ Proyectos incluidos:
 
         Tema: Efecto Parallax al hacer scroll.
 
-        Técnicas: Uso de CSS para simular profundidad al desplazarse por la página.
+        Técnicas: Uso de CSS para simular profundidad al desplazarse por la página. Responsive Design.
 
         Propósito: Añadir dinamismo visual y mejorar la experiencia de usuario.
 
         Nota: Imágenes de Unsplash (libres de derechos).
+        
 
     * LoginPage
 
