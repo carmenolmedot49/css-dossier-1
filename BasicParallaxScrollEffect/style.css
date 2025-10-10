@@ -97,7 +97,7 @@ h1 {
 
 
 
-/* Responsive Design: ajuste para pantallas más pequeñas de mayor a menor*/
+/* Responsive Design: ajuste para pantallas más pequeñas de mayor a menor */
 
 @media (max-height: 800px) {
     h1 {
@@ -168,4 +168,5 @@ h1 {
         font-size: 0.3cm;
     }
 }
+
 
