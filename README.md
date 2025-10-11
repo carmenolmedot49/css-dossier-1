@@ -7,21 +7,30 @@ Proyectos incluidos:
 
     * BasicParallaxScrollEffect
 
-        Tema: Efecto Parallax al hacer scroll.
+        Tema: efecto Parallax al hacer scroll.
 
-        Técnicas: Uso de CSS para simular profundidad al desplazarse por la página. Responsive Design.
+        Técnicas: uso de CSS para simular profundidad al desplazarse por la página. Responsive Design.
 
-        Propósito: Añadir dinamismo visual y mejorar la experiencia de usuario.
+        Propósito: añadir dinamismo visual y mejorar la experiencia de usuario.
 
-        Nota: Imágenes de Unsplash (libres de derechos). Adjunto imágenes para ver ligeramente el resultado, aunque para apreciarlo habría que abrir el archivo html.
+        Nota: imágenes de Unsplash (libres de derechos). Adjunto imágenes para ver ligeramente el resultado, aunque para apreciarlo habría que abrir el archivo html.
         
 
     * LoginPage
 
-        Tema: Página de inicio de sesión completa.
+        Tema: página de inicio de sesión completa.
 
-        Técnicas: Formularios, inputs, botones y estilos CSS para diseño.
+        Técnicas: formularios, inputs, botones y estilos CSS para diseño.
 
-        Propósito: Practicar estructura semántica HTML5 y diseño de interfaces funcionales y estéticas.
+        Propósito: practicar estructura semántica HTML5 y diseño de interfaces funcionales y estéticas.
         
-        Nota: Adjunto una imagen del resultado (archivo Resultado.JPG), aunque no se puede apreciar el dinamismo de la página que proporcionan los efectos, como los hover.
+        Nota: adjunto una imagen del resultado (archivo Resultado.JPG), aunque no se puede apreciar el dinamismo de la página que proporcionan los efectos, como los hover.
+
+
+    * InteractiveBackgroundMusic
+
+       Tema y propósito: añadir un archivo de audio controlable a la web.
+
+       Técnicas: estilización mediante CSS para que el reproductor se integre de manera estética sobre la página.
+
+       Nota: la música utilizada es de Pixabay (autora: Musinova), libre de copyright. No se incluye el archivo de audio en el repositorio para respetar la licencia, aunque se mencionan los créditos correctamente en la web.
