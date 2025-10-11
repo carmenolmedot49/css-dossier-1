@@ -13,7 +13,7 @@ Proyectos incluidos:
 
         Propósito: Añadir dinamismo visual y mejorar la experiencia de usuario.
 
-        Nota: Imágenes de Unsplash (libres de derechos).
+        Nota: Imágenes de Unsplash (libres de derechos). Adjunto imágenes para ver ligeramente el resultado, aunque para apreciarlo habría que abrir el archivo html.
         
 
     * LoginPage
