@@ -8,7 +8,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* evitar scroll horizontal */
+    overflow-x: hidden; /* Evitar scroll horizontal */
 }
 
 
@@ -175,6 +175,7 @@ h1 {
         font-size: 0.3cm;
     }
 }
+
 
 
 
