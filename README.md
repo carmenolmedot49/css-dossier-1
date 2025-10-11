@@ -34,3 +34,6 @@ Proyectos incluidos:
        Técnicas: estilización mediante CSS para que el reproductor se integre de manera estética sobre la página.
 
        Nota: la música utilizada es de Pixabay (autora: Musinova), libre de copyright. No se incluye el archivo de audio en el repositorio para respetar la licencia, aunque se mencionan los créditos correctamente en la web.
+      
+       Imagen: tomada de Unsplash (libres de derechos).
+       
