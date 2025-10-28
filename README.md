@@ -1,4 +1,11 @@
-Repositorio de Ejercicios CSS3 y HTML5:
+## Proyectos desplegados (acceder a enlaces para ver los resultados)
+
+   - Parallax: https://parallax-tau-hazel.vercel.app/
+   - Proyecto con música: https://music-tau-flame.vercel.app/
+   - Login App: https://login-theta-virid.vercel.app/
+
+
+## Sobre el repositorio:
 
 Contiene prácticas desarrolladas en clase, centradas en crear componentes web funcionales y visualmente atractivos. Ideal para repasar maquetación y diseño de interfaces.
 
@@ -13,7 +20,7 @@ Proyectos incluidos:
 
         Propósito: añadir dinamismo visual y mejorar la experiencia de usuario.
 
-        Nota: imágenes de Unsplash (libres de derechos). Adjunto imágenes para ver ligeramente el resultado, aunque para apreciarlo habría que abrir el archivo html.
+        Nota: imágenes de Unsplash (libres de derechos).
         
 
     * LoginPage
@@ -24,7 +31,6 @@ Proyectos incluidos:
 
         Propósito: practicar estructura semántica HTML5 y diseño de interfaces funcionales y estéticas.
         
-        Nota: adjunto una imagen del resultado (archivo Resultado.JPG), aunque no se puede apreciar el dinamismo de la página que proporcionan los efectos, como los hover.
 
 
     * InteractiveBackgroundMusic
@@ -33,7 +39,7 @@ Proyectos incluidos:
 
        Técnicas: estilización mediante CSS para que el reproductor se integre de manera estética sobre la página.
 
-       Nota: la música utilizada es de Pixabay (autora: Musinova), libre de copyright. No se incluye el archivo de audio en el repositorio para respetar la licencia, aunque se mencionan los créditos correctamente en la web.
+       Nota: la música utilizada es de Pixabay (autora: Musinova), libre de copyright.
       
        Imagen: tomada de Unsplash (libres de derechos).
        
